@@ -1,0 +1,10 @@
+path: dataset/road_defects_yolo
+
+train: train/images
+val: val/images
+
+names:
+  0: Crack
+  1: Lane
+  2: Pothole
+  3: Speed_Breaker

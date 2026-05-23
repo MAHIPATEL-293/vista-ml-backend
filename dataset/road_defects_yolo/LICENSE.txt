@@ -1,0 +1,8 @@
+RoadDefects-ISeg Dataset License
+
+This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Attribution: Please cite this dataset when using it:
+Aravalli Sainath Chaithanya, RoadDefects-ISeg: A Dataset for Instance Segmentation of Road Surface Defects, Zenodo, 2025. DOI: 10.5281/zenodo.17194814
+
+This dataset was derived from publicly available datasets, all licensed under CC BY 4.0.
