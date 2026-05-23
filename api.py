@@ -7,6 +7,9 @@ import uuid
 
 app = Flask(__name__)
 CORS(app)
+@app.route("/", methods=["GET"])
+def home():
+    return {"message": "VISTA ML Backend is running"}
 
 road_model = YOLO("runs/segment/train-3/weights/best.pt")
 defect_model = YOLO("runs/detect/train-2/weights/best.pt")
